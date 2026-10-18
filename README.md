@@ -1,4 +1,4 @@
-# Portfolio Website (React + Node.js)
+# my_Portfolio (React + Node.js)
 
 - `client/`: React (Vite) front end
 - `server/`: Express API (projects + contact form)
